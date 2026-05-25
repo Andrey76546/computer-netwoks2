@@ -17,7 +17,8 @@
 
 Результат:
 
-![скрин 1]([images/1.png)
+<img width="2560" height="1106" alt="1" src="https://github.com/user-attachments/assets/c69d539d-cded-4f58-9931-8f4d2ebffd1d" />
+
 
 Вывод: Мой компьютер имеет локальный IP-адрес (IPv4-адрес) в локальной сети. Также определены физический адрес (MAC) и адреса DNS-серверов.
 
